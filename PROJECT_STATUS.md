@@ -1,5 +1,5 @@
 # Lumnus Outreach Studio — v2 final-demo revision
-Last updated: 2026-11-25. Current stage: v2 implemented; documentation refreshed; public upload and final checks in progress.
+Last updated: 2026-11-25. Current stage: v2 implemented, documented, tested and uploaded publicly. Paid-provider validation and full final visual QA remain outstanding.
 
 ## Current direction
 - User requests midsize to high-profile companies, superseding small/local-first targeting.
@@ -52,9 +52,24 @@ Last updated: 2026-11-25. Current stage: v2 implemented; documentation refreshed
 - Browser QA, refreshed report/launch documentation and clean release package remain next.
 
 ## Stage 4 checkpoint — public sharing preparation
-- Public repository created at https://github.com/Rushil711/lumnus-tech-deliverable (upload pending at this checkpoint).
+- Public repository created at https://github.com/Rushil711/lumnus-tech-deliverable (created at this checkpoint; upload subsequently verified below).
 - README rewritten for a new user on Mac/Windows: download, Python installation, launch, free demo, paid setup, review, backups, collaboration limits, and troubleshooting.
 - Report updated to midsize/high-profile targeting, nine current projects, Lumnus service fit, honest warm scenario, live-demo procedure, scalability, reflection, and verification limits; printable HTML rebuilt.
 - Default model updated to GPT-6.2 Sol after official docs marked the earlier model deprecated. Illustrative usage cost updated to $0.14; no real paid call has been made.
 - Browser observed name-only Patagonia prepared intake and persistence. Further browser tools became unavailable before the full final walkthrough; do not claim full visual QA.
 - User offered to configure a key but has not confirmed saving it. Paid provider validation remains outstanding.
+
+## Stage 5 checkpoint — GitHub upload verified
+- Public repository: https://github.com/Rushil711/lumnus-tech-deliverable, main branch. First implementation commit: d60e289.
+- GitHub API confirmed public visibility and uploaded README, app, report, launchers, and tests.
+- Final regression run: 22/22 pass; Python and JavaScript syntax pass.
+- Clean sharing ZIP extracted into a temporary directory and initialized successfully: three companies, nine opportunities, no API key or author-specific configuration required.
+- Staged-file inspection excluded local records, credentials, backups, old screenshots, source-document images, and personal machine paths.
+- Clean ZIP regenerated; regular local saves and Git commits now preserve progress.
+
+## Outstanding work / next session
+1. User must confirm a funded key is saved locally; run one fresh company through the real provider, inspect evidence and pitch quality, and record usage. No real paid request has been made.
+2. Complete final desktop/mobile browser walkthrough when browser tools are available; current browser verification covered prepared name-only intake and persistence.
+3. Test the Windows launcher on Windows.
+4. For actual outreach, replace the illustrative warm scenario with a real permissioned connection and have Lumnus confirm scope/staffing.
+5. Multi-user hosting, synchronized records, authenticated reviewers, canonical-domain deduplication and enforced dollar budgets are future work, not implemented features.
