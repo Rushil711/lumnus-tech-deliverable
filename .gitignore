@@ -1,0 +1,12 @@
+.env*
+!.env.example
+data/
+__pycache__/
+*.pyc
+*.sqlite*
+*.db
+*.zip
+.DS_Store
+docs/requirements/
+docs/enterprise-reference-seed.py
+docs/*-preview.jpg
